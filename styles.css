@@ -1,0 +1,32 @@
+body {
+  background-color:blue;
+}
+
+button {
+  background-color: blue);
+  border: 6px solid #00f7ff;
+  border-radius: 10px;
+  width: 150px;
+  align-items: center;
+}
+
+#root{
+  background-color: blue;
+  color: whitesmoke;
+}
+
+select {
+  padding: 1rem;
+  font-size: 1.5rem;
+  display:block;
+}
+
+input {
+  background: lightgray;
+  color: blue;
+  margin: 1rem;
+  text-transform: uppercase;
+}
+
+input:hover {
+    background: yellow}
